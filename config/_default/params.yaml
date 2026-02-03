@@ -46,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Nano-Optics & Biophysics Lab. This work is licensed under {license}'
+    notice: '© {year} Taiwan-Japan Neuroscience Exchange Association (TJNEA). This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
