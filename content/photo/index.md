@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Nano-Optics & Biophysics Lab
-        content: 'Hsiao Lab @ NYCU Electrophysics'
+      - title: Taiwan-Japan Neuroscience Exchange Association (TJNEA)
+        content: 'Taiwan-Japan Neuroscience Exchange Association (TJNEA)'
         align: center
         background:
           image:
