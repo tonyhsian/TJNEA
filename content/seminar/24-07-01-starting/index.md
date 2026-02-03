@@ -1,11 +1,11 @@
 ---
-title: Starting the Lab
-date: 2025-08-01
+title: 2024 Taiwan-Japan Neuroscience Exchange Symposium
+date: 2024-07-23
 #image:
 #  focal_point: 'top'
 ---
 
-Nano-Optics & Biophysics lab is starting on Aug 1, 2025. 
+2024 Taiwan-Japan 2023 Neuroscience Exchange Symposium 
 
 <!--more-->
 
