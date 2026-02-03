@@ -9,16 +9,16 @@ sections:
     content:
       #title: Contact
       text: 
-        If you are interested in joining us, please contact me (Dr. Yi-Teng Hsiao).
+        If you are interested in joining us, please contact me (Dr. Pin-Wu Liu).
       
-      email: yitenghsiao@nycu.edu.tw
-      phone: '+886-3-5712121 #56127'
+      email: liu.pinwu.52n@kyoto-u.jp
+      phone: ''
       address:
-        street: NYCU Electrophysics, No 1001, University Rd.
+        street: xxx, No 1001, University Rd.
         city: Hsinchu
         region: Taiwan
-        postcode: '300'
-      directions: 'Science Building III, Office: SC458, Lab: SC654'
+        postcode: ''
+      directions: ''
       coordinates:
         latitude: '24.7882255'
         longitude: '120.9934156'
