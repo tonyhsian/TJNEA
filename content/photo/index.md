@@ -18,9 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-
-    content:
-      slides:
+          
       - title: Taiwan-Japan Neuroscience Exchange Association (TJNEA)
         content: '2023'
         align: right
