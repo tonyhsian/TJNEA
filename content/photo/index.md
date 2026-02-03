@@ -19,12 +19,12 @@ sections:
           position: right
           color: '#666'
 
-      - title: Taiwan-Japan Neuroscience Exchange Association (TJNEA)_
+      - title: Taiwan-Japan Neuroscience Exchange Association (TJNEA)
         content: '2023'
         align: right
         background:
           image:
-            filename: coders
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: right
