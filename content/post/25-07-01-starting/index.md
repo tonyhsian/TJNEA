@@ -1,11 +1,11 @@
 ---
-title: Starting the Lab
+title: 2026 Taiwan-Japan Neuroscience Exchange Workshop
 date: 2025-08-01
 #image:
 #  focal_point: 'top'
 ---
 
-Nano-Optics & Biophysics lab is starting on Aug 1, 2025. 
+2026 Taiwan-Japan Neuroscience Exchange Workshop
 
 <!--more-->
 
