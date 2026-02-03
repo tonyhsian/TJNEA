@@ -1,54 +1,22 @@
 ---
-title: Home
+title: About
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: slider
+  - block: contact
     content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      #title: Contact
+      text: 
+        Welcome Message
+        We are delighted to invite you to the Special Symposium on Interferometric Scattering Microscopy 2025 (iSCAT 2025), which will be held on April 17, 2025, in Taiwan. iSCAT microscopy, celebrated for its extraordinary sensitivity and speed in detecting light scattering from nanoscale objects, continues to break new ground in studying biological systems and precisely characterizing nanoparticles.
+
+        iSCAT 2025 will feature invited talks by leading research groups who will present their latest advancements in iSCAT techniques and their diverse applications. This symposium will serve as a dynamic forum for experts, researchers, and students engaged in discussing progress in iSCAT and related scattering-based optical methods or their utilization in exploring biological and material sciences. This event promises to foster collaboration, inspire innovation, and promote knowledge exchange.
+
+        Registration is required to attend, but thanks to the generous support of the Institute of Atomic and Molecular Sciences, Academia Sinica, we are pleased to offer free registration for all participants.
+      
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      columns: '2'
+
 ---
