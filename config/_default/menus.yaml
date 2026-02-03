@@ -7,21 +7,18 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Research
-    url: research
+  - name: News
+    url: post
     weight: 20
-  - name: Publications
-    url: publication
+  - name: About
+    url: about
     weight: 30
-  - name: People
-    url: people
+  - name: Seminar
+    url: seminar
     weight: 40
   - name: Photo
     url: photo
     weight: 50
-  - name: News
-    url: post
-    weight: 60
-  - name: Join Us
+  - name: Contact
     url: contact
     weight: 70
