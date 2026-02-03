@@ -1,5 +1,5 @@
 ---
-title: News
+title: Seminar
 
 # Listing view
 view: compact
