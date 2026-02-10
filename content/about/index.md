@@ -8,12 +8,15 @@ sections:
   - block: contact
     content:
       text: 
-        <h5> Welcome Message </h5>
-        We are delighted to invite you to the Special Symposium on Interferometric Scattering Microscopy 2025 (iSCAT 2025), which will be held on April 17, 2025, in Taiwan. iSCAT microscopy, celebrated for its extraordinary sensitivity and speed in detecting light scattering from nanoscale objects, continues to break new ground in studying biological systems and precisely characterizing nanoparticles.
+        <h5>Welcome to the Taiwan–Japan Neuroscience Exchange Association (TJNEA)</h5>
+        The Taiwan–Japan Neuroscience Exchange Association (TJNEA) is a community-driven initiative dedicated to fostering academic exchange and collaboration between neuroscience researchers in Taiwan and Japan. Our mission is to create an open, inclusive, and sustainable platform where ideas, techniques, and collaborations can grow beyond institutional and national boundaries.
+        
+        Since 2023, TJNEA has organized a series of scientific and social exchange events alongside major neuroscience meetings, including the Annual Meeting of the Japan Neuroscience Society (JNS). These events bring together principal investigators, early-career researchers, postdoctoral fellows, and students across diverse subfields of neuroscience.
+        
+        We place particular emphasis on young researchers, believing that early international exposure and peer-level interaction are essential for building long-term scientific networks. Through short talks, panel-style sessions, and extended free discussions, TJNEA aims to lower the barriers to collaboration and encourage candid scientific dialogue.
+        
+        Looking forward, TJNEA seeks to expand its role as a hub for Taiwan–Japan neuroscience collaboration by continuously refining our events, broadening participation, and supporting new cross-border research connections.
 
-        iSCAT 2025 will feature invited talks by leading research groups who will present their latest advancements in iSCAT techniques and their diverse applications. This symposium will serve as a dynamic forum for experts, researchers, and students engaged in discussing progress in iSCAT and related scattering-based optical methods or their utilization in exploring biological and material sciences. This event promises to foster collaboration, inspire innovation, and promote knowledge exchange.
-
-        Registration is required to attend, but thanks to the generous support of the Institute of Atomic and Molecular Sciences, Academia Sinica, we are pleased to offer free registration for all participants.
       
     design:
       columns: '2'

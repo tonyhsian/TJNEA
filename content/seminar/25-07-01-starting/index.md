@@ -8,7 +8,7 @@ date: 2025-07-23
 
 <h4>Date:</h4> July 23, 2025
 <h4>Location:</h4> TOKI MESSE, Niigata Convention Center, Niigata, Japan
-<br>
+</br>
 <p>
 The 2025 Taiwan–Japan Neuroscience Exchange Workshop was held as an official satellite event of the 48th Annual Meeting of the Japan Neuroscience Society, representing the continued development of TJNEA’s annual exchange activities.
 </p>
