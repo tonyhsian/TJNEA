@@ -9,7 +9,7 @@ date: 2023-08-01
 <h4>Date:</h4> August 1, 2023
 <h4>Location:</h4> Sendai Ryokusaikan Visitor Center, Sendai, Japan
 Status: Satellite Event of the 46th Annual Meeting of the Japan Neuroscience Society
-</br>
+<p></p>
 <p>
 The 2023 Taiwan–Japan Neuroscience Exchange Symposium was held as an official satellite event of the 46th Annual Meeting of the Japan Neuroscience Society and was jointly organized with the Taiwan Neuroscience Society (TNS). 
 </p>

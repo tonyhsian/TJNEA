@@ -8,7 +8,7 @@ date: 2024-07-23
 
 <h4>Date:</h4> July 23, 2024
 <h4>Location:</h4> Fukuoka International Congress Center, Fukuoka, Japan
-</br>
+<p></p>
 <p>
 The 2024 Taiwan–Japan Young Researcher Exchange Workshop was organized as an official satellite event of NEURO2024. Building on the experience of the 2023 symposium, TJNEA played a central role in organizing a scientifically focused workshop aimed at early-career researchers.
 </p>
