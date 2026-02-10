@@ -2,7 +2,7 @@
 title: Seminar
 
 # Listing view
-view: showcase #compact
+view: list #compact
 
 # Optional banner image (relative to `assets/media/` folder).
 # banner:
